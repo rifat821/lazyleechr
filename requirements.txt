@@ -8,6 +8,7 @@ requests
 bs4
 apscheduler
 motor
+dotenv
 dnspython
 wget>=3.2
 youtube-search-python
